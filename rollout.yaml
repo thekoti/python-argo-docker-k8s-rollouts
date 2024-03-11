@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: color-grid
-        image: yourdockerhubusername/color-grid:latest
+        image: vellankikoti/color-grid:latest
         ports:
         - containerPort: 8080
   strategy:
