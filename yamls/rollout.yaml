@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: color-grid
-        image: vellankikoti/color-grid:latest
+        image: vellankikoti/color-grid:1.0
         ports:
         - containerPort: 8080
   strategy:
